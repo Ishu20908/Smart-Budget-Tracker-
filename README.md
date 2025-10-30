@@ -85,5 +85,6 @@ It provides real-time insights into your **total income, expenses, savings, and 
 
 ### 🔧 1. Clone the Repository
 ```bash
-git clone https://github.com/<username>/smart-budget-tracker.git
+git clone https://github.com/Ishu20908/Smart-Budget-Tracker-.git
 cd smart-budget-tracker
+
